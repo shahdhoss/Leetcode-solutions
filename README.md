@@ -1,3 +1,14 @@
-These are the solutions I submitted for some of the leetcode questions I had done.
+# Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shahdhoss/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 
-Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+# Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shahdhoss/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+# Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shahdhoss/Leetcode-solutions/tree/master/0217-contains-duplicate) |
